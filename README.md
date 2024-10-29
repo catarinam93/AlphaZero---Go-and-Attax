@@ -1,5 +1,5 @@
 # Attax for Go and Attax board games
-Assignment of the course of Laboratory of Artificial Intelligence and Data Science (3rd year, 1st semester)
+Assignment of the course of Laboratory of Artificial Intelligence and Data Science (BSc in Artificial Intelligence and Data Science 3rd year, 1st semester)
 
 ## A little context
 ### Code Structure:
